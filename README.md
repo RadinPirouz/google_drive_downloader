@@ -1,6 +1,6 @@
 # Google Drive Downloader For Linux With Bash Script
 
-This Script For Download Google Drive Link With Bash Script
+This Script For Download From Google Drive
 
 # How To Use:
 
